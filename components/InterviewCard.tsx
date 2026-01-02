@@ -48,7 +48,7 @@ const InterviewCard = async ({
               badgeColor
             )}
           >
-            <p className="badge-text ">{normalizedType}</p>
+            <p className="badge-text">{normalizedType}</p>
           </div>
 
           {/* Cover Image */}
